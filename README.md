@@ -21,9 +21,9 @@ Our system is tailored specifically for construction sites to detect anomalies, 
 Installation guidelines will be updated soon.
 1. Git clone my repo
 2. Create virtualenv
-3. pip install ultralytics
+3. pip install ultralytics or pip install requirements.txt
 4. add your video/image input
-5. run scripts
+5. run script giamsat.py
 
 ## Usage
 
