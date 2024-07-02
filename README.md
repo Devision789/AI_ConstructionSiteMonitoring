@@ -1,5 +1,6 @@
 # AI_ConstructionSiteMonitoring
 AI_ConstructionSiteMonitoring
+<img src="https://imgur.com/5S11nSP">
 
 # AI Construction Site Monitoring
 
