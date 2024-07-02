@@ -36,3 +36,4 @@ We welcome contributions! If you would like to improve the system or add new fea
 ## Contact
 
 For any questions or suggestions, please open an issue on GitHub.
+You can reach me via email at computervision9999@gmail.com or on WhatsApp at +84898336308.
